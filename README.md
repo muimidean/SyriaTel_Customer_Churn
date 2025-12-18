@@ -43,7 +43,10 @@ Redundant call-level variables were dropped after aggregation to reduce multicol
 ---
 
 ## Data Analysis
-
+Exploratory data analysis (EDA) was conducted to understand customer behavior and its relationship with churn. This included:
+- Univariate analysis of churn distribution
+- Bivariate analysis between churn and customer service calls, usage, and charges
+- Identification of behavioral patterns associated with high churn risk
 
 ---
 
