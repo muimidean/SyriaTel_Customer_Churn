@@ -23,7 +23,7 @@ The dataset contains 3,333 customer records with 21 features, including customer
 ---
 
 ## Data Preparation
-We performed initial data inspection to understand the structure and quality of the dataset. This included checking dataset dimensions, data types, missing values, duplicates, and the distribution of the target variable.
+Data inspection was performed initially to understand the structure and quality of the dataset. This included checking dataset dimensions, data types, missing values, duplicates, and the distribution of the target variable.
 
 ---
 
