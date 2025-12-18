@@ -1,3 +1,6 @@
+
+![turn-your-customers-best-sales-people_211071559](https://github.com/user-attachments/assets/42ab2fdd-31e0-4a65-93c1-0f3b7f639bcb)
+
 # SyriaTel Customer Churn Prediction Project
 
 ## Overview
