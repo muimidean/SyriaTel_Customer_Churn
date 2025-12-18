@@ -96,7 +96,7 @@ The Random Forest model proved most effective, highlighting that churn behavior 
 ---
 
 ## For More Information
-For questions, collaboration, or further discussion, please contact:
+For questions, or further discussion, please contact:
 
 **Dean Muimi Mutie**  
 Email: muimidean@gmail.com
